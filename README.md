@@ -2,7 +2,7 @@
 
 A python tool that explains basic molecular biology properties of a given DNA sequence
 
-# What if provides:
+# What it provides:
 
 - Calculation of GC content 
 - Calculation of GC/AT skew 
