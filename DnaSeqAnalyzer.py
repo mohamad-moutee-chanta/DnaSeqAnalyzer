@@ -155,9 +155,9 @@ if hydrophobic > hydrophilic and hydrophobic > neutral:
 elif hydrophilic > hydrophobic and hydrophilic > neutral:
     print("Your chain is has more hydrophilic Amino Acids")
 elif neutral > hydrophilic and neutral > hydrophobic:
-    print("Your chain has more neutral Amino Acids in terms of hydrophobicity ") 
+    print("\nYour chain has more neutral Amino Acids in terms of hydrophobicity ") 
 
-print ("\nYou have {} hydrphobic, {} hydrophilic and {} neutral Amino Acids in the chain".format(hydrophobic,hydrophilic,neutral))
+print ("You have {} hydrphobic, {} hydrophilic and {} neutral Amino Acids in the chain".format(hydrophobic,hydrophilic,neutral))
 
 # Kyte-Doolittle score for hydrophibicity
 hydrophibicity = {
